@@ -1,5 +1,5 @@
-;; (require 'posframe)
-;; (require 'request)
+(require 'posframe)
+(require 'request)
 
 (defconst custom/bijin-tokei-buffer " *custom/bijin-tokei-buffer*")
 (defconst custom/bijin-tokei-holiday '(
